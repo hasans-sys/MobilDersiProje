@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866468639430",
+    "project_id": "ferhathocaproje",
+    "storage_bucket": "ferhathocaproje.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866468639430:android:61a66ad7a19cc71769ddc7",
+        "android_client_info": {
+          "package_name": "com.example.ferhathocaproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAit1EFxW7qbalOyft3nOJ0sklZRbcMZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
